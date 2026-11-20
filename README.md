@@ -10,7 +10,7 @@
 
 **A curious mind, a heart for building, and always another idea.**
 
-[🌐 Worklight](https://worklight.id) · [💌 Email Me](mailto:felicia@worklight.id) · [🔄 OpsLoop](https://opsloop.worklight.id)
+[Worklight](https://worklight.id) · [💌 Email Me](mailto:felicia@worklight.id) · [OpsLoop](https://opsloop.worklight.id)
 
 </div>
 
@@ -30,16 +30,16 @@ Together with my technical team at Worklight, I work on websites, applications, 
 - 🤝 Focused on clear communication and thoughtful execution.
 - 🌱 Growing a business while continuing to learn.
 
-## ⚡ What We Build
+# What We Build
 
 | Area | Solutions |
 | --- | --- |
-| 🌐 Websites | Company profiles, landing pages, and custom CMS |
-| 🛍️ E-commerce | Online stores and Shopify customization |
-| 📱 Applications | Web and mobile applications |
-| ⚙️ Business systems | CRM, booking, and internal operational tools |
-| 💬 Automation | WhatsApp workflows and AI chatbots |
-| 🔎 Search & content | SEO, GEO, and website content |
+|Websites | Company profiles, landing pages, and custom CMS |
+|E-commerce | Online stores and Shopify customization |
+|Applications | Web and mobile applications |
+|Business systems | CRM, booking, and internal operational tools |
+|Automation | WhatsApp workflows and AI chatbots |
+|Search & content | SEO, GEO, and website content |
 
 ## 🔄 Featured Project: OpsLoop
 
